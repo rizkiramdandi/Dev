@@ -23,15 +23,15 @@ var x=Math.floor((Math.random()*11)+ 1);
 var xxx=null;
 if(x=="1"){xxx="pricing-services-in-uganda.html"}
 if(x=="2"){xxx="banks-in-uganda.html"}
-if(x=="3"){xxx="business-ideas.html"}
+if(x=="3"){xxx="easiest-business-ideas.html"}
 if(x=="4"){xxx="big-data-analytics.html"}
 if(x=="5"){xxx="insight-into.html"}
-if(x=="6"){xxx="-sources-capital.html"}
-if(x=="7"){xxx="business-feffective.html"}
-if(x=="8"){xxx="-money-agents.html"}
-if(x=="9"){xxx="google-could.html"}
-if(x=="10"){xxx="featured-transforming.html"}
-if(x=="11"){xxx="blockchain-making.html"}a_to_ve[i].href="https://downloadfirmware20.blogspot.com/2019/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="5-sources-capital.html"}
+if(x=="7"){xxx="business-for-effective.html"}
+if(x=="8"){xxx="mobile-money-agents.html"}
+if(x=="9"){xxx="reasons-why-google-could.html"}
+if(x=="10"){xxx="big-data-transforming.html"}
+if(x=="11"){xxx="blockchain-applications-making.html"}a_to_ve[i].href="https://downloadfirmware20.blogspot.com/2019/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
