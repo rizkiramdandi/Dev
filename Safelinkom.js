@@ -26,7 +26,7 @@ if(x=="2"){xxx="banks-in-uganda.html"}
 if(x=="3"){xxx="easiest-business-ideas.html"}
 if(x=="4"){xxx="big-data-analytics.html"}
 if(x=="5"){xxx="insight-into.html"}
-if(x=="6"){xxx="5-sources-capital.html"}
+if(x=="6"){xxx="5-sources-of-capital.html"}
 if(x=="7"){xxx="business-for-effective.html"}
 if(x=="8"){xxx="mobile-money-agents.html"}
 if(x=="9"){xxx="reasons-why-google-could.html"}
